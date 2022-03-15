@@ -1,0 +1,768 @@
+------STATIC TEST------
+------------SMALL TESTS------------
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+------------MEDIUM TESTS------------
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.040000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.050000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.060000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.040000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+------------LARGE TESTS------------
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.030000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.070000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.080000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.120000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.150000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.150000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.170000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.330000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.320000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.040000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.090000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.170000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.170000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.200000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.310000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.290000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+------SHARED TEST------
+------------SMALL TESTS------------
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.040000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+------------MEDIUM TESTS------------
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.040000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.050000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.050000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.030000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+------------LARGE TESTS------------
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.040000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.050000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.080000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.160000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.120000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.150000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.230000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.280000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.360000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.040000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.060000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.080000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.180000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.200000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.220000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.300000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.330000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+------DYNAMIC TEST------
+------------SMALL TESTS------------
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+------------MEDIUM TESTS------------
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.030000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.030000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+------------LARGE TESTS------------
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.020000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.050000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.080000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.120000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.170000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.150000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.180000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.300000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.270000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION create_table--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.030000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.050000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.120000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.200000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.220000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.220000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.260000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION wc_files--
+real time: 0.280000
+user time: 0.000000
+sys time: 0.000000
+--OPERATION remove_block--
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
