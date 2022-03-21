@@ -91,7 +91,7 @@ void search_dir(char* dirpath){
     char *path = calloc(strlen(dirpath)+MAX_FILENAME_LEN, sizeof(char));
     struct dirent* dirp;
     struct stat statbuf;
-    if (stat(dirpath, &statbuf) < 0){
+    if (lstat(dirpath, &statbuf) < 0){
         fprintf(stderr, "Not found\n");
         return;
     }
@@ -142,5 +142,6 @@ int main(int argc, char* argv[]) {
            res->blks,
            res->slnks,
            res->socks);
+    free(res);
     return 0;
 }

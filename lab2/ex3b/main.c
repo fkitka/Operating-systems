@@ -81,7 +81,7 @@ int main(int argc, char* argv[]) {
     res->fifos = 0;
     res->dirs = 0;
     res->files = 0;
-    nftw(argv[1], (__nftw_func_t) print_info, 1,0);
+    nftw(argv[1], (__nftw_func_t) print_info, 10,FTW_PHYS);
 
     printf("SUMMARY: ");
     printf("files %d  directories %d  fifos %d  char devs %d  block devs %d  slinks %d  socks %d\n",
