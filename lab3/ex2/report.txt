@@ -1,0 +1,60 @@
+Number of processes: 10, rectangle width: 0.001000 
+ RESULT: 3.238034
+real time: 0.000000
+user time: 0.000000
+sys time: 0.000000
+Number of processes: 10, rectangle width: 0.000010 
+ RESULT: 3.239906
+real time: 0.010000
+user time: 0.000000
+sys time: 0.000000
+Number of processes: 100, rectangle width: 0.000100 
+ RESULT: 3.151381
+real time: 0.050000
+user time: 0.000000
+sys time: 0.000000
+Number of processes: 1000, rectangle width: 0.000001 
+ RESULT: 3.142589
+real time: 0.340000
+user time: 0.000000
+sys time: 0.040000
+Number of processes: 1000, rectangle width: 0.000000 
+ RESULT: 3.142590
+real time: 0.560000
+user time: 0.000000
+sys time: 0.040000
+Number of processes: 1000, rectangle width: 0.000000 
+ RESULT: 3.142590
+real time: 1.180000
+user time: 0.000000
+sys time: 0.040000
+Number of processes: 1000, rectangle width: 0.000000 
+ RESULT: 3.142590
+real time: 7.350000
+user time: 0.000000
+sys time: 0.050000
+Number of processes: 1000, rectangle width: 0.000000 
+ RESULT: 3.142590
+real time: 63.750000
+user time: 0.000000
+sys time: 0.090000
+Number of processes: 5000, rectangle width: 0.000000 
+ RESULT: 3.141793
+real time: 1.600000
+user time: 0.010000
+sys time: 0.240000
+Number of processes: 5000, rectangle width: 0.000000 
+ RESULT: 3.141793
+real time: 2.120000
+user time: 0.010000
+sys time: 0.240000
+Number of processes: 10000, rectangle width: 0.000000 
+ RESULT: 3.141729
+real time: 4.670000
+user time: 0.010000
+sys time: 0.520000
+Number of processes: 10000, rectangle width: 0.000000 
+ RESULT: 3.141729
+real time: 3.890000
+user time: 0.010000
+sys time: 0.510000
