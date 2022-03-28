@@ -36,7 +36,6 @@ double getRectArea(double x1, double x2) {
 }
 
 void calc(int i, int n, double width) {
-//    something is no yes
     double result = 0;
     double x = (double)i / (double)n;
     double right_limit = (double)(i+1)/ (double)n;
