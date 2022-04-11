@@ -1,0 +1,7 @@
+skladnik1 = wc -l
+skladnik2 = cat /etc/passwd
+skladnik3 = grep ^a
+skladnik4 = ps aux | grep root
+
+skladnik2 | skladnik3 | skladnik1
+skladnik4 | skladnik1
