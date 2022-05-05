@@ -1,0 +1,44 @@
+2022-05-06 00:23:14
+Client id: 0
+Message type: 5
+Message body:
+'-1543166217'
+
+2022-05-06 00:23:17
+Client id: 0
+Message type: 5
+Message body:
+'-620419337'
+
+2022-05-06 00:23:22
+Client id: 0
+Message type: 5
+Message body:
+'436545271'
+
+2022-05-06 00:23:30
+Client id: 0
+Message type: 2
+Message body:
+'List all active clients'
+
+2022-05-06 00:23:55
+Client id: 0
+Message type: 4
+Message body:
+'test message
+'
+
+2022-05-06 00:24:29
+Client id: 1
+Message type: 3
+Message body:
+'test 2all message
+'
+
+2022-05-06 00:24:40
+Client id: 1
+Message type: 1
+Message body:
+'Stop client'
+
