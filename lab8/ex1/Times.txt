@@ -1,0 +1,149 @@
+Wariant 1 jest wolniejszy od wariantu 2 w kazdym przypadku,
+w wariancie 1 kazdy watek przeglada cala macierz natomiast w wariancie 2 jedynie wybrany fragment.
+Mozna zaobserwowac wzrost czasu, gdy mamy wieksza ilosc watkow.
+Tworzenie watkow zajmuje wiecej czasu niz wykonanie operacji na obrazie.
+
+----------------------------
+Number of threads: 1
+Size of image: W: 512 x H: 512
+Variant: numbers
+thread: 0, time: 4040.000000
+total time: 4786.000000
+----------------------------
+----------------------------
+Number of threads: 2
+Size of image: W: 512 x H: 512
+Variant: numbers
+thread: 0, time: 4480.000000
+thread: 1, time: 3914.000000
+total time: 4873.000000
+----------------------------
+----------------------------
+Number of threads: 4
+Size of image: W: 512 x H: 512
+Variant: numbers
+thread: 0, time: 3626.000000
+thread: 1, time: 5692.000000
+thread: 2, time: 3581.000000
+thread: 3, time: 5688.000000
+total time: 6401.000000
+----------------------------
+----------------------------
+Number of threads: 8
+Size of image: W: 512 x H: 512
+Variant: numbers
+thread: 0, time: 5296.000000
+thread: 1, time: 5392.000000
+thread: 2, time: 5365.000000
+thread: 3, time: 5277.000000
+thread: 4, time: 5365.000000
+thread: 5, time: 5253.000000
+thread: 6, time: 5279.000000
+thread: 7, time: 5761.000000
+total time: 7436.000000
+----------------------------
+----------------------------
+Number of threads: 16
+Size of image: W: 512 x H: 512
+Variant: numbers
+thread: 0, time: 5571.000000
+thread: 1, time: 5380.000000
+thread: 2, time: 4951.000000
+thread: 3, time: 5498.000000
+thread: 4, time: 5826.000000
+thread: 5, time: 7132.000000
+thread: 6, time: 4682.000000
+thread: 7, time: 5058.000000
+thread: 8, time: 5717.000000
+thread: 9, time: 7918.000000
+thread: 10, time: 5404.000000
+thread: 11, time: 7712.000000
+thread: 12, time: 5200.000000
+thread: 13, time: 10041.000000
+thread: 14, time: 8657.000000
+thread: 15, time: 5328.000000
+total time: 16109.000000
+----------------------------
+----------------------------
+Number of threads: 1
+Size of image: W: 512 x H: 512
+Variant: block
+thread: 0, time: 2727.000000
+total time: 3594.000000
+----------------------------
+----------------------------
+Number of threads: 2
+Size of image: W: 512 x H: 512
+Variant: block
+thread: 0, time: 1392.000000
+thread: 1, time: 1349.000000
+total time: 2118.000000
+----------------------------
+----------------------------
+Number of threads: 4
+Size of image: W: 512 x H: 512
+Variant: block
+thread: 0, time: 1017.000000
+thread: 1, time: 1074.000000
+thread: 2, time: 1416.000000
+thread: 3, time: 1326.000000
+total time: 2110.000000
+----------------------------
+----------------------------
+Number of threads: 8
+Size of image: W: 512 x H: 512
+Variant: block
+thread: 0, time: 713.000000
+thread: 1, time: 779.000000
+thread: 2, time: 639.000000
+thread: 3, time: 626.000000
+thread: 4, time: 629.000000
+thread: 5, time: 446.000000
+thread: 6, time: 581.000000
+thread: 7, time: 552.000000
+total time: 2233.000000
+----------------------------
+----------------------------
+Number of threads: 16
+Size of image: W: 512 x H: 512
+Variant: block
+thread: 0, time: 470.000000
+thread: 1, time: 412.000000
+thread: 2, time: 413.000000
+thread: 3, time: 432.000000
+thread: 4, time: 507.000000
+thread: 5, time: 381.000000
+thread: 6, time: 415.000000
+thread: 7, time: 867.000000
+thread: 8, time: 351.000000
+thread: 9, time: 304.000000
+thread: 10, time: 375.000000
+thread: 11, time: 252.000000
+thread: 12, time: 338.000000
+thread: 13, time: 346.000000
+thread: 14, time: 367.000000
+thread: 15, time: 271.000000
+total time: 4071.000000
+----------------------------
+----------------------------
+Number of threads: 16
+Size of image: W: 256 x H: 256
+Variant: block
+thread: 0, time: 190.000000
+thread: 1, time: 164.000000
+thread: 2, time: 101.000000
+thread: 3, time: 170.000000
+thread: 4, time: 132.000000
+thread: 5, time: 123.000000
+thread: 6, time: 105.000000
+thread: 7, time: 104.000000
+thread: 8, time: 226.000000
+thread: 9, time: 125.000000
+thread: 10, time: 175.000000
+thread: 11, time: 152.000000
+thread: 12, time: 122.000000
+thread: 13, time: 502.000000
+thread: 14, time: 141.000000
+thread: 15, time: 220.000000
+total time: 3082.000000
+----------------------------
